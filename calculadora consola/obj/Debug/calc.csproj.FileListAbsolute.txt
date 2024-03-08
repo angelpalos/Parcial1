@@ -1,0 +1,14 @@
+C:\Users\Computo\Desktop\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Computo\Desktop\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Desktop\calc\bin\Debug\calc.exe.config
+C:\Users\Computo\Desktop\calc\bin\Debug\calc.exe
+C:\Users\Computo\Desktop\calc\bin\Debug\calc.pdb
+C:\Users\Computo\Desktop\calc\obj\Debug\calc.exe
+C:\Users\Computo\Desktop\calc\obj\Debug\calc.pdb
+C:\Users\saulb\Desktop\C# Solo\calc\bin\Debug\calc.exe.config
+C:\Users\saulb\Desktop\C# Solo\calc\bin\Debug\calc.exe
+C:\Users\saulb\Desktop\C# Solo\calc\bin\Debug\calc.pdb
+C:\Users\saulb\Desktop\C# Solo\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\saulb\Desktop\C# Solo\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\saulb\Desktop\C# Solo\calc\obj\Debug\calc.exe
+C:\Users\saulb\Desktop\C# Solo\calc\obj\Debug\calc.pdb

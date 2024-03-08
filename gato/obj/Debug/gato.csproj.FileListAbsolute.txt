@@ -1,0 +1,10 @@
+C:\Users\Computo\Desktop\gato\bin\Debug\gato.exe.config
+C:\Users\Computo\Desktop\gato\bin\Debug\gato.exe
+C:\Users\Computo\Desktop\gato\bin\Debug\gato.pdb
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.csproj.AssemblyReference.cache
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.Form1.resources
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.csproj.GenerateResource.cache
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.exe
+C:\Users\Computo\Desktop\gato\obj\Debug\gato.pdb

@@ -1,0 +1,14 @@
+C:\Users\Computo\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.exe.config
+C:\Users\Computo\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.exe
+C:\Users\Computo\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.pdb
+C:\Users\Computo\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.csproj.AssemblyReference.cache
+C:\Users\Computo\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.exe
+C:\Users\Computo\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.pdb
+C:\Users\saulb\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.exe.config
+C:\Users\saulb\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.exe
+C:\Users\saulb\Downloads\AreasPerimetros_v1\bin\Debug\AreasPerimetros_v1.pdb
+C:\Users\saulb\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.csproj.AssemblyReference.cache
+C:\Users\saulb\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.csproj.CoreCompileInputs.cache
+C:\Users\saulb\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.exe
+C:\Users\saulb\Downloads\AreasPerimetros_v1\obj\Debug\AreasPerimetros_v1.pdb

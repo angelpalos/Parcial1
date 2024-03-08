@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gatp.MainPage"
+             Background="MidnightBlue">
+
+<ScrollView>
+        <Frame BorderColor="LemonChiffon" BackgroundColor="Transparent" 
+               WidthRequest="280"
+               HeightRequest="360"
+               CornerRadius="12">
+            <Grid HeightRequest="300"
+                    WidthRequest="240">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="" Grid.Row="3" Grid.Column="1"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block8"
+                            Margin="1"
+                            />
+
+                <Button Text="" Grid.Row="2"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block4"
+                            Margin="1"/>
+                <Button Text="" Grid.Row="3"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block7"
+                            Margin="1"/>
+
+                <Button Text="" Grid.Row="1" Grid.Column="0"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block1"
+                            Margin="1"/>
+                <Button Text="" Grid.Row="1" Grid.Column="1"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block2"
+                            Margin="1"/>
+                <Button Text="" Grid.Row="1" Grid.Column="2"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block3"
+                            Margin="1"/>
+
+                <Button Text="" Grid.Row="2" Grid.Column="1"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block5"
+                            Margin="1"/>
+                <Button Text="" Grid.Row="2" Grid.Column="2"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block6"
+                            Margin="1"/>
+                <Button Text="" Grid.Row="3" Grid.Column="2"
+                            BackgroundColor="White"
+                            TextColor="Black"
+                            Clicked="BtnClick"
+                            x:Name="Block9"
+                            Margin="1"/>
+
+                <Button Text="Restart" Grid.Row="4" Grid.ColumnSpan="3"
+                        FontFamily="Arial"
+                        FontSize="Medium"
+                        Clicked="Restart"
+                        Margin="3"
+                        TextColor="LemonChiffon"
+                        Background="LightSlateGray"/>
+
+                <Label Text="Gato" Grid.Row="0" Grid.ColumnSpan="3" 
+                           HorizontalTextAlignment="Center"
+                           FontSize="Large"
+                           FontFamily="Arial"
+                           TextColor="White" />
+				
+                <Label x:Name="PtX" Text="X - 0" Grid.Row="6" Grid.ColumnSpan="1"
+                       HorizontalTextAlignment="Center"
+                       FontSize="Medium"
+                       TextColor="White"
+                       FontFamily="Comic sanz"
+                       Margin="1"/>
+
+                <Label x:Name="PtO" Text="O - 0" Grid.Row="6" Grid.Column="2"
+                       HorizontalTextAlignment="Center"
+                       FontSize="Medium"
+                       TextColor="White"
+                       FontFamily="Comic sanz"
+                       Margin="1"/>
+
+            </Grid>
+        </Frame>
+    </ScrollView>
+</ContentPage>
